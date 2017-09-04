@@ -1,0 +1,27 @@
+{margin:0; padding:0}
+
+
+h1{
+	color: #008B8B;
+	font-size:50px;
+	text-align: center;
+}
+
+.tabuleiro{
+	margin: 0 auto;
+	width: 30%;
+	border-style: dashed;
+	border-color: #008B8B;
+
+}
+.tabuleiro td{
+	border-style: dashed;
+	border-color: #008B8B;
+}
+#footer{
+	width: 30%;
+	font-size: 20px;
+	color: #008B8B;
+	margin: 0 auto;
+	text-align: center;
+}
